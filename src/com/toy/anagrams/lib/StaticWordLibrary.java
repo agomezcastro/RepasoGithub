@@ -37,7 +37,6 @@ package com.toy.anagrams.lib;
 final class StaticWordLibrary extends WordLibrary {
     //comentario de prueba
     private static final String[] WORD_LIST = {
-        "abstraction",
         "ambiguous",
         "arithmetic",
         "backslash",
