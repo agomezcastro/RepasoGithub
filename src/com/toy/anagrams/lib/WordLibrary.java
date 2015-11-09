@@ -35,7 +35,7 @@ package com.toy.anagrams.lib;
  * Interface defining logic for the Anagram Game application.
  */
 public abstract class WordLibrary {
-
+    //No sabes para que vale esto.
     protected WordLibrary() {
     }
     
