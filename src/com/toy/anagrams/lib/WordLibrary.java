@@ -36,7 +36,7 @@ package com.toy.anagrams.lib;
  */
 public abstract class WordLibrary {
     /**
-     * Constructor for subclasses.
+     * Constructor para las subclases.
      */
     protected WordLibrary() {
     }
